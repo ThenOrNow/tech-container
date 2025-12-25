@@ -1,1 +1,5 @@
-{}
+{
+  "theme": "system",
+  "baseFontSize": 12,
+  "translucency": true
+}
