@@ -3,5 +3,6 @@
   "newFileFolderPath": "attachments",
   "attachmentFolderPath": "attachments",
   "newLinkFormat": "relative",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "spellcheck": false
 }
